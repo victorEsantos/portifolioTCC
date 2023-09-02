@@ -20,3 +20,4 @@ Ao criar uma tarefa, o usuário pode definir um intervalo de lembrete, escolhend
 
 ![Diagrama sem nome drawio](https://github.com/victorEsantos/portifolioTCC/assets/61585518/1a014556-35db-4ba1-abbc-854e6499c3e2)
 
+## [Stack](Stack.md)
