@@ -12,3 +12,4 @@ Ao criar uma tarefa, o usuário pode definir um intervalo de lembrete, escolhend
 1. [Stack](Stack.md)
 2. [Diagramas](DIAGRAMAS.md)
 3. [ADRs](ADR000.md)
+3. [Arquitetura](ARQUITETURA.md)
